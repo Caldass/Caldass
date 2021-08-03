@@ -12,7 +12,7 @@ I'm currently a Commercial Intelligence Assistant at [Cardeal Distribuidora](htt
   
 At Cardeal Distribuidora I apply Data Science solutions to business problems, building sales forecasting and customer segmentation models, reports, dashboards and I also perform commercial checks and validations.
   
-I have already developed many Data Science solutions such as a tool that predicts the outcome of a soccer match in order to make profit out of betting odds and a rent estimator for the capital of my state in order to help people find price worthy properties.
+I have already developed many Data Science solutions such as [a tool that predicts the outcome of a soccer match in order to make profit out of betting odds](https://github.com/Caldass/pl-matches-predictor) and a [rent estimator for city of Recife in order to help people find price worthy properties](https://github.com/Caldass/rental_properties).
   
 The details of each solution are described in the projects below.
   
