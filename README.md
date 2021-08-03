@@ -78,22 +78,20 @@ The details of each solution are described in the projects below.
       </td>
      </tr>
       <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+      <td width="25%" align="center">
         <span>Power BI</span><br><br>
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
       <td width="25%" align="center">
         <span>Qlik</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/qlik.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Flask</span><br><br>
-        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Heroku</span><br><br>
-        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
       </td>
     </tr>
   </tbody>
