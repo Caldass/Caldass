@@ -8,9 +8,9 @@
  
 # About me
   
-I'm currently a Commercial Intelligence Assistant at [Cardeal Distribuidora](http://cardealdistribuidora.com.br/) who's completely in love with AI and Data Science, and I'm also a Business undergrad at the Federal University of Pernambuco (UFPE).
+I'm currently a Data and Intelligence Analyst at [Pearson LatAm](https://br.pearson.com/) who's completely in love with AI and Data Science, and I'm also a Business undergrad at the Federal University of Pernambuco (UFPE).
   
-At Cardeal Distribuidora I apply Data Science solutions to business problems, building sales forecasting and customer segmentation models, reports, dashboards and I also perform commercial checks and validations.
+At Pearson I apply data solutions to business problems using tools such as Python, SQL, GCP and Git.
   
 I have already developed many Data Science solutions such as [a tool that predicts the outcome of a soccer match in order to make profit out of betting odds](https://github.com/Caldass/pl-matches-predictor) and a [rent estimator for the city of Recife in order to help people find price worthy properties](https://github.com/Caldass/rental_properties).
   
