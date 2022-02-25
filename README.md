@@ -8,7 +8,7 @@
  
 # About me
   
-I'm currently a Data and Intelligence Analyst at [Pearson LatAm](https://br.pearson.com/) who's completely in love with AI and Data Science, and I'm also a Business undergrad at the Federal University of Pernambuco (UFPE).
+I'm currently a Data Analyst at [Pearson LatAm](https://br.pearson.com/) who's completely in love with AI and Data Science, and I'm also a Business undergrad at the Federal University of Pernambuco (UFPE).
   
 At Pearson I apply data solutions to business problems using tools such as Python, SQL, GCP and Git.
   
