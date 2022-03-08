@@ -15,7 +15,7 @@ At Pearson I apply data solutions to business problems using tools such as Pytho
 I have already developed many Data Science solutions such as:
   - [A tool that predicts the outcome of a soccer match in order to make profit out of betting odds](https://github.com/Caldass/pl-matches-predictor). 
   - [A rent estimator for the city of Recife in order to help people find price worthy properties](https://github.com/Caldass/rental_properties).
-  - [A tool that identifies the top customers of a fictional multibrand outlet company](https://github.com/Caldass/pl-matches-predictor).
+  - [A tool that identifies the top customers of a fictional multibrand outlet company](https://github.com/Caldass/all-in-one-sales).
   
 The details of each solution are described in the projects pinned below.
   
